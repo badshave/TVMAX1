@@ -1,0 +1,394 @@
+#EXTM3U
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
+#EXTINF:-1 tvg-id="US: 5 STARMAX" tvg-name="5 StarMAX" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/da/5_StarMax_2011.svg/revision/latest/scale-to-width-down/300?cb=20160721191823" group-title="Movies",5 StarMAX
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/29500
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS ACTION" tvg-logo="https://static.skyassets.com/contentstack/assets/blt292fe19f56d1a1a8/blt8e6fe7c13106eff4/60cb442e07060a4ae3f125ed/Sky_Sports_Action_PRIMARY_RGB.png" group-title="United Kingdom",SKY SPORTS ACTION
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/423193
+#EXTINF:-1 tvg-id="skysportsarena.uk" tvg-name="Sky Sports Arena FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6c/Sky_Sports_Arena_2020.svg/revision/latest/scale-to-width-down/300?cb=20200924152351" group-title="United Kingdom",Sky Sports Arena FHD
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/387661
+#EXTINF:-1 tvg-id="skysportscricket.uk" tvg-name="Sky Sports Cricket FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/02/Sky_Sports_Cricket_2020.svg/revision/latest/scale-to-width-down/300?cb=20200924153122" group-title="United Kingdom",Sky Sports Cricket FHD
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/387659
+#EXTINF:-1 tvg-id="skysportsf1.uk" tvg-name="Sky Sports F1 FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1a/Sky_Sports_F1_2020.svg/revision/latest/scale-to-width-down/300?cb=20200924152412" group-title="United Kingdom",Sky Sports F1 FHD
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/387655
+#EXTINF:-1 tvg-id="skysportsfootball.uk" tvg-name="Sky Sports Football FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Sky_Sports_Football_2020.svg/revision/latest/scale-to-width-down/300?cb=20200924152526" group-title="United Kingdom",Sky Sports Football FHD
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/387653
+#EXTINF:-1 tvg-id="skysportsgolf.uk" tvg-name="Sky Sports Golf FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/63/Sky_Sports_Golf_2020.svg/revision/latest/scale-to-width-down/300?cb=20200924152539" group-title="United Kingdom",Sky Sports Golf FHD
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/387657
+#EXTINF:-1 tvg-id="skysportsmainevent.uk" tvg-name="Sky Sports Main Event FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/Sky_Sports_Main_Event_2020.svg/revision/latest/scale-to-width-down/350?cb=20200924152245" group-title="United Kingdom",Sky Sports Main Event FHD
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/387649
+#EXTINF:-1 tvg-id="skysportsmix.uk" tvg-name="Sky Sports Mix FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ea/Sky_Sports_Mix_2020.svg/revision/latest/scale-to-width-down/300?cb=20200924152645" group-title="United Kingdom",Sky Sports Mix FHD
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/387667
+#EXTINF:-1 tvg-id="skysportsnews.uk" tvg-name="Sky Sports News FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/Sky_Sports_News_2020.svg/revision/latest/scale-to-width-down/300?cb=20200924152703" group-title="United Kingdom",Sky Sports News FHD
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/387669
+#EXTINF:-1 tvg-id="skysportspremiereleague.uk" tvg-name="Sky Sports Premier League FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/da/Sky_Sports_Premier_League_2020.svg/revision/latest/scale-to-width-down/300?cb=20200924152906" group-title="United Kingdom",Sky Sports Premier League FHD
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/387651
+#EXTINF:-1 tvg-id="skysportsracing.uk" tvg-name="Sky Sports Racing FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/Sky_Sports_Racing_2020.svg/revision/latest/scale-to-width-down/300?cb=20200924152940" group-title="United Kingdom",Sky Sports Racing FHD
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/387665
+#EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK +1 SD" tvg-logo="https://static.epg.best/gb/CartoonNetwork.uk.png" group-title="United Kingdom",CARTOON NETWORK +1 SD
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/387456
+#EXTINF:-1 tvg-id="cartoonnetwork.uk" tvg-name="CARTOON NETWORK FHD" tvg-logo="https://static.epg.best/gb/CartoonNetwork.uk.png" group-title="United Kingdom",CARTOON NETWORK FHD
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/387457
+#EXTINF:-1 tvg-id="cartoonnetwork.uk" tvg-name="CARTOON NETWORK SD" tvg-logo="https://static.epg.best/gb/CartoonNetwork.uk.png" group-title="United Kingdom",CARTOON NETWORK SD
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/387458
+#EXTINF:-1 tvg-id="cartoonito.uk" tvg-name="CARTOONITO SD" tvg-logo="https://static.epg.best/gb/Cartoonito.uk.png" group-title="United Kingdom",CARTOONITO SD
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/387459
+#EXTINF:-1 tvg-id="cbbc.uk" tvg-name="CBBC HD" tvg-logo="https://static.epg.best/gb/CBBC.uk.png" group-title="United Kingdom",CBBC HD
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/387460
+#EXTINF:-1 tvg-id="cbbc.uk" tvg-name="CBBC SD" tvg-logo="https://static.epg.best/gb/CBBC.uk.png" group-title="United Kingdom",CBBC SD
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/387461
+#EXTINF:-1 tvg-id="cbeebies.uk" tvg-name="CBEEBIES FHD" tvg-logo="https://static.epg.best/gb/CBeebies.uk.png" group-title="United Kingdom",CBEEBIES FHD
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/387462
+#EXTINF:-1 tvg-id="drama.uk" tvg-name="CBS DRAMA SD" tvg-logo="https://static.epg.best/gb/CBSDrama.uk.png" group-title="United Kingdom",CBS DRAMA SD
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/387618
+#EXTINF:-1 tvg-id="cbsjustice.uk" tvg-name="CBS JUSTICE UK" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b4/CBS_Justice_2018.svg/revision/latest/scale-to-width-down/300?cb=20190211212243" group-title="United Kingdom",CBS JUSTICE UK
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/387619
+#EXTINF:-1 tvg-id="cbsreality.uk" tvg-name="CBS REALITY SD" tvg-logo="https://static.epg.best/gb/CBSReality.uk.png" group-title="United Kingdom",CBS REALITY SD
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/387620
+#EXTINF:-1 tvg-id="challenge.uk" tvg-name="CHALLENGE" tvg-logo="https://static.epg.best/gb/Challenge.uk.png" group-title="United Kingdom",CHALLENGE
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/387635
+#EXTINF:-1 tvg-id="" tvg-name="CHANNEL 4 +1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0c/Channel_4_%2B1_2015.svg/revision/latest/scale-to-width-down/161?cb=20150929185543" group-title="United Kingdom",CHANNEL 4 +1
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/387463
+#EXTINF:-1 tvg-id="channel4.uk" tvg-name="CHANNEL 4 FHD" tvg-logo="https://static.epg.best/gb/Channel4.uk.png" group-title="United Kingdom",CHANNEL 4 FHD
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/387577
+#EXTINF:-1 tvg-id="channel4.uk" tvg-name="CHANNEL 4 SD" tvg-logo="https://static.epg.best/gb/Channel4.uk.png" group-title="United Kingdom",CHANNEL 4 SD
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/387578
+#EXTINF:-1 tvg-id="" tvg-name="CHANNEL 5 +1 SD" tvg-logo="https://cqrebrands.com/Images/channel5.png" group-title="United Kingdom",CHANNEL 5 +1 SD
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/387464
+#EXTINF:-1 tvg-id="channel5.uk" tvg-name="CHANNEL 5 FHD" tvg-logo="https://cqrebrands.com/Images/channel5.png" group-title="United Kingdom",CHANNEL 5 FHD
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/387579
+#EXTINF:-1 tvg-id="channel5.uk" tvg-name="CHANNEL 5 SD" tvg-logo="https://cqrebrands.com/Images/channel5.png" group-title="United Kingdom",CHANNEL 5 SD
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/387580
+#EXTINF:-1 tvg-id="citv.uk" tvg-name="CITV SD" tvg-logo="https://static.epg.best/gb/CITV.uk.png" group-title="United Kingdom",CITV SD
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/387465
+#EXTINF:-1 tvg-id="cnbc.uk" tvg-name="CNBC" tvg-logo="https://static.epg.best/in/CNBCBajar.in.png" group-title="United Kingdom",CNBC
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/387466
+#EXTINF:-1 tvg-id="cnn.uk" tvg-name="CNN FHD" tvg-logo="https://static.epg.best/gb/CNN.uk.png" group-title="United Kingdom",CNN FHD
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/387467
+#EXTINF:-1 tvg-id="cnn.uk" tvg-name="CNN SD" tvg-logo="https://static.epg.best/gb/CNN.uk.png" group-title="United Kingdom",CNN SD
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/387468
+#EXTINF:-1 tvg-id="comedycentral.uk" tvg-name="COMEDY CENT FHD" tvg-logo="https://static.epg.best/gb/ComedyCentral.uk.png" group-title="United Kingdom",COMEDY CENT FHD
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/387593
+#EXTINF:-1 tvg-id="comedycentral.uk" tvg-name="COMEDY CENTRAL HD" tvg-logo="https://static.epg.best/gb/ComedyCentral.uk.png" group-title="United Kingdom",COMEDY CENTRAL HD
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/387594
+#EXTINF:-1 tvg-id="comedyxtra.uk" tvg-name="COMEDY XTRA SD" tvg-logo="https://static.epg.best/gb/ComedyCentralExtra.uk.png" group-title="United Kingdom",COMEDY XTRA SD
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/387595
+#EXTINF:-1 tvg-id="createcraft.uk" tvg-name="CREATE AND CRAFT FHD" tvg-logo="https://hoolatv.com/sites/default/files/channels/createandcraft.png" group-title="United Kingdom",CREATE AND CRAFT FHD
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/387469
+#EXTINF:-1 tvg-id="crimeandinvestigationnetwork.uk" tvg-name="CRIME & INVESTIGATIONS HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9c/Crime_and_Investigation_Canada_TV_logo.png/revision/latest/scale-to-width-down/300?cb=20141114005511" group-title="United Kingdom",CRIME & INVESTIGATIONS HD
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/387470
+#EXTINF:-1 tvg-id="crimeandinvestigationnetwork.uk" tvg-name="CRIME+INV FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9c/Crime_and_Investigation_Canada_TV_logo.png/revision/latest/scale-to-width-down/300?cb=20141114005511" group-title="United Kingdom",CRIME+INV FHD
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/387471
+#EXTINF:-1 tvg-id="dave.uk" tvg-name="DAVE FHD" tvg-logo="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.lyngsat-logo.com%2Fhires%2Fdd%2Fdave_uktv_ie.png&f=1&nofb=1" group-title="United Kingdom",DAVE FHD
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/387611
+#EXTINF:-1 tvg-id="dave.uk" tvg-name="DAVE HD" tvg-logo="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.lyngsat-logo.com%2Fhires%2Fdd%2Fdave_uktv_ie.png&f=1&nofb=1" group-title="United Kingdom",DAVE HD
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/387612
+#EXTINF:-1 tvg-id="davejavu.uk" tvg-name="DAVE JA VU SD" tvg-logo="https://cqrebrands.com/Images/davejavu.png" group-title="United Kingdom",DAVE JA VU SD
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/387613
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY +1" tvg-logo="https://static.epg.best/gb/DiscoveryChannel.uk.png" group-title="United Kingdom",DISCOVERY +1
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/387472
+#EXTINF:-1 tvg-id="discoverychannel.uk" tvg-name="DISCOVERY FHD" tvg-logo="https://static.epg.best/gb/DiscoveryChannel.uk.png" group-title="United Kingdom",DISCOVERY FHD
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/387473
+#EXTINF:-1 tvg-id="discoverychannel.uk" tvg-name="DISCOVERY HD" tvg-logo="https://static.epg.best/gb/DiscoveryChannel.uk.png" group-title="United Kingdom",DISCOVERY HD
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/387474
+#EXTINF:-1 tvg-id="discoveryhistory.uk" tvg-name="DISCOVERY HISTORY ." tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/ca/Discovery-history-2010-logo.png/revision/latest/scale-to-width-down/270?cb=20180719041840" group-title="United Kingdom",DISCOVERY HISTORY .
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/387475
+#EXTINF:-1 tvg-id="discoveryscience.uk" tvg-name="DISCOVERY SCIENCE SD" tvg-logo="https://static.epg.best/gb/DiscoveryScience.uk.png" group-title="United Kingdom",DISCOVERY SCIENCE SD
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/387476
+#EXTINF:-1 tvg-id="discoveryturbo.uk" tvg-name="DISCOVERY TURBO SD" tvg-logo="https://cqrebrands.com/Images/discoveryturbo.png" group-title="United Kingdom",DISCOVERY TURBO SD
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/387477
+#EXTINF:-1 tvg-id="" tvg-name="DMAX +1" tvg-logo="https://static.epg.best/it/DMAX.it.png" group-title="United Kingdom",DMAX +1
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/387479
+#EXTINF:-1 tvg-id="" tvg-name="DMAX +1" tvg-logo="https://static.epg.best/it/DMAX.it.png" group-title="United Kingdom",DMAX +1
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/387478
+#EXTINF:-1 tvg-id="discoverydmax.uk" tvg-name="DMAX SD" tvg-logo="https://static.epg.best/it/DMAX.it.png" group-title="United Kingdom",DMAX SD
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/387480
+#EXTINF:-1 tvg-id="" tvg-name="DRAMA +1" tvg-logo="https://static.epg.best/gb/Drama.uk.png" group-title="United Kingdom",DRAMA +1
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/387481
+#EXTINF:-1 tvg-id="drama.uk" tvg-name="DRAMA SD" tvg-logo="https://static.epg.best/gb/Drama.uk.png" group-title="United Kingdom",DRAMA SD
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/387626
+#EXTINF:-1 tvg-id="eentertainment.uk" tvg-name="E! FHD" tvg-logo="https://static.epg.best/gb/EEntertainment.uk.png" group-title="United Kingdom",E! FHD
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/387629
+#EXTINF:-1 tvg-id="e4.uk" tvg-name="E4 FHD" tvg-logo="https://static.epg.best/gb/E4.uk.png" group-title="United Kingdom",E4 FHD
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/387607
+#EXTINF:-1 tvg-id="e4.uk" tvg-name="E4 HD" tvg-logo="https://static.epg.best/gb/E4.uk.png" group-title="United Kingdom",E4 HD
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/387608
+#EXTINF:-1 tvg-id="" tvg-name="EDEN +1" tvg-logo="https://static.epg.best/gb/Eden.uk.png" group-title="United Kingdom",EDEN +1
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/387482
+#EXTINF:-1 tvg-id="eden.uk" tvg-name="EDEN SD" tvg-logo="https://static.epg.best/gb/Eden.uk.png" group-title="United Kingdom",EDEN SD
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/387483
+#EXTINF:-1 tvg-id="eurosport1.uk" tvg-name="EUROSPORT 1 FHD" tvg-logo="https://static.epg.best/gb/Eurosport1.uk.png" group-title="United Kingdom",EUROSPORT 1 FHD
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/406926
+#EXTINF:-1 tvg-id="eurosport1.uk" tvg-name="EUROSPORT 2 FHD" tvg-logo="https://static.epg.best/gb/Eurosport2.uk.png" group-title="United Kingdom",EUROSPORT 2 FHD
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/406925
+#EXTINF:-1 tvg-id="film4.uk" tvg-name="FILM 4 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Film4_logo_2018.svg/1200px-Film4_logo_2018.svg.png" group-title="United Kingdom",FILM 4 FHD
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/387484
+#EXTINF:-1 tvg-id="film4.uk" tvg-name="FILM4 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Film4_logo_2018.svg/1200px-Film4_logo_2018.svg.png" group-title="United Kingdom",FILM4 SD
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/387485
+#EXTINF:-1 tvg-id="foodnetwork.uk" tvg-name="FOOD NETWORK" tvg-logo="https://static.epg.best/gb/FoodNetwork.uk.png" group-title="United Kingdom",FOOD NETWORK
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/387627
+#EXTINF:-1 tvg-id="forcestv.uk" tvg-name="FORCES TV" tvg-logo="https://static.epg.best/gb/ForcesTV.uk.png" group-title="United Kingdom",FORCES TV
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/387636
+#EXTINF:-1 tvg-id="gbnews.uk" tvg-name="GB NEWS FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3a/GB_News_with_Slogan_alt.svg/revision/latest/scale-to-width-down/200?cb=20210412000929" group-title="United Kingdom",GB NEWS FHD
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/387486
+#EXTINF:-1 tvg-id="gold.uk" tvg-name="GOLD FHD" tvg-logo="https://static.epg.best/gb/GOLD.uk.png" group-title="United Kingdom",GOLD FHD
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/387609
+#EXTINF:-1 tvg-id="gold.uk" tvg-name="GOLD HD" tvg-logo="https://static.epg.best/gb/GOLD.uk.png" group-title="United Kingdom",GOLD HD
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/387610
+#EXTINF:-1 tvg-id="greataction.uk" tvg-name="GREAT! Movies Action" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/39/Sony_Movies_Action.jpg/revision/latest/scale-to-width-down/150?cb=20200608133037" group-title="United Kingdom",GREAT! Movies Action
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/387487
+#EXTINF:-1 tvg-id="greatclassic.uk" tvg-name="GREAT! MOVIES CLASSIC" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/Sony_Movies_Classic.jpg/revision/latest/scale-to-width-down/150?cb=20200608132802" group-title="United Kingdom",GREAT! MOVIES CLASSIC
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/387488
+#EXTINF:-1 tvg-id="greatmovies.uk" tvg-name="GREAT! MOVIES SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Sony_Movies_2019.svg/revision/latest/scale-to-width-down/200?cb=20190815211939" group-title="United Kingdom",GREAT! MOVIES SD
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/387489
+#EXTINF:-1 tvg-id="hgtv.uk" tvg-name="HGTV SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/HGTV_2010.svg/1200px-HGTV_2010.svg.png" group-title="United Kingdom",HGTV SD
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/387490
+#EXTINF:-1 tvg-id="horrorchannel.uk" tvg-name="HORROR CHANNEL" tvg-logo="https://static.epg.best/gb/HorrorChannel.uk.png" group-title="United Kingdom",HORROR CHANNEL
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/387637
+#EXTINF:-1 tvg-id="investigationdiscovery.uk" tvg-name="I.D" tvg-logo="https://static.epg.best/gb/InvestigationDiscovery.uk.png" group-title="United Kingdom",I.D
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/387491
+#EXTINF:-1 tvg-id="" tvg-name="ID +1" tvg-logo="https://static.epg.best/gb/InvestigationDiscovery.uk.png" group-title="United Kingdom",ID +1
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/387493
+#EXTINF:-1 tvg-id="" tvg-name="ID +1" tvg-logo="https://static.epg.best/gb/InvestigationDiscovery.uk.png" group-title="United Kingdom",ID +1
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/387492
+#EXTINF:-1 tvg-id="" tvg-name="ITV +1" tvg-logo="https://th.bing.com/th/id/R.9289bf55647ea406792617803065d033?rik=jBMscqsAWJf%2bEA&riu=http%3a%2f%2f2.bp.blogspot.com%2f-K4ajrLM3rXE%2fUPY5Tntiw1I%2fAAAAAAAAVmM%2fWSGF51VbCwg%2fs1600%2fITV%2b%2b1%2blogo%2b2013.png&ehk=QPTB4OcsCagETdci8v%2bf44iZIdv%2f7utsW%2" group-title="United Kingdom",ITV +1
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/387494
+#EXTINF:-1 tvg-id="itvcentralplus.uk" tvg-name="ITV +1 CENTRAL WEST SD (RAW)" tvg-logo="https://static.epg.best/gb/ITVCentral.uk.png" group-title="United Kingdom",ITV +1 CENTRAL WEST SD (RAW)
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/387495
+#EXTINF:-1 tvg-id="itvgranadaplus.uk" tvg-name="ITV +1 GRANADA SD (RAW)" tvg-logo="https://static.epg.best/gb/ITVGranada.uk.png" group-title="United Kingdom",ITV +1 GRANADA SD (RAW)
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/387496
+#EXTINF:-1 tvg-id="" tvg-name="ITV +1 LONDON SD" tvg-logo="https://static.epg.best/gb/ITV1.uk.png" group-title="United Kingdom",ITV +1 LONDON SD
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/387497
+#EXTINF:-1 tvg-id="itv1anglia.uk" tvg-name="ITV 1 FHD" tvg-logo="https://static.epg.best/gb/ITV1.uk.png" group-title="United Kingdom",ITV 1 FHD
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/387575
+#EXTINF:-1 tvg-id="itvtynetees.uk" tvg-name="ITV 1 Tyne Tees FHD" tvg-logo="https://static.epg.best/gb/ITV1.uk.png" group-title="United Kingdom",ITV 1 Tyne Tees FHD
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/387498
+#EXTINF:-1 tvg-id="itvwestcountry.uk" tvg-name="ITV 1 West Country West FHD" tvg-logo="https://static.epg.best/gb/ITV1.uk.png" group-title="United Kingdom",ITV 1 West Country West FHD
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/387499
+#EXTINF:-1 tvg-id="itv2.uk" tvg-name="ITV 2 FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/35/ITV2_logo_2015.svg/revision/latest/scale-to-width-down/250?cb=20210807190404" group-title="United Kingdom",ITV 2 FHD
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/387602
+#EXTINF:-1 tvg-id="itv2.uk" tvg-name="ITV 2 SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/35/ITV2_logo_2015.svg/revision/latest/scale-to-width-down/250?cb=20210807190404" group-title="United Kingdom",ITV 2 SD
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/387603
+#EXTINF:-1 tvg-id="itv3.uk" tvg-name="ITV 3 FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f6/ITV3_logo_2013.svg/revision/latest/scale-to-width-down/300?cb=20210807190328" group-title="United Kingdom",ITV 3 FHD
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/387604
+#EXTINF:-1 tvg-id="itv4.uk" tvg-name="ITV 4 FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d3/ITV4_logo_2013.svg/revision/latest/scale-to-width-down/300?cb=20210807190247" group-title="United Kingdom",ITV 4 FHD
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/387606
+#EXTINF:-1 tvg-id="" tvg-name="ITV ANGLIA WEST FHD NEW (RAW)" tvg-logo="https://static.epg.best/gb/ITV1.uk.png" group-title="United Kingdom",ITV ANGLIA WEST FHD NEW (RAW)
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/387500
+#EXTINF:-1 tvg-id="itvborderscotland.uk" tvg-name="ITV BORDER SCOTLAND SD (RAW)" tvg-logo="https://static.epg.best/gb/ITV1.uk.png" group-title="United Kingdom",ITV BORDER SCOTLAND SD (RAW)
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/387501
+#EXTINF:-1 tvg-id="itvcentral.uk" tvg-name="ITV CENTRAL EAST FHD NEW (RAW)" tvg-logo="https://static.epg.best/gb/ITV1.uk.png" group-title="United Kingdom",ITV CENTRAL EAST FHD NEW (RAW)
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/387502
+#EXTINF:-1 tvg-id="itvcentral.uk" tvg-name="ITV CENTRAL WEST SD (RAW)" tvg-logo="https://static.epg.best/gb/ITV1.uk.png" group-title="United Kingdom",ITV CENTRAL WEST SD (RAW)
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/387503
+#EXTINF:-1 tvg-id="itvchanneltelevision.uk" tvg-name="ITV CHANNEL TV SD (RAW)" tvg-logo="https://static.epg.best/gb/ITV1.uk.png" group-title="United Kingdom",ITV CHANNEL TV SD (RAW)
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/387504
+#EXTINF:-1 tvg-id="itvgranada.uk" tvg-name="ITV GRANADA SD (RAW)" tvg-logo="https://static.epg.best/gb/ITV1.uk.png" group-title="United Kingdom",ITV GRANADA SD (RAW)
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/387505
+#EXTINF:-1 tvg-id="itvlondon.uk" tvg-name="ITV LONDON SD (RAW)" tvg-logo="https://static.epg.best/gb/ITV1.uk.png" group-title="United Kingdom",ITV LONDON SD (RAW)
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/387506
+#EXTINF:-1 tvg-id="itvmeridianplus.uk" tvg-name="ITV MERIDIAN NORTH FHD NEW (RAW)" tvg-logo="https://static.epg.best/gb/ITV1.uk.png" group-title="United Kingdom",ITV MERIDIAN NORTH FHD NEW (RAW)
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/387507
+#EXTINF:-1 tvg-id="itvmeridian.uk" tvg-name="ITV MERIDIAN SOUTH FHD NEW(RAW)" tvg-logo="https://static.epg.best/gb/ITV1.uk.png" group-title="United Kingdom",ITV MERIDIAN SOUTH FHD NEW(RAW)
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/387508
+#EXTINF:-1 tvg-id="itvmeridian.uk" tvg-name="ITV MERIDIAN WEST SD (RAW" tvg-logo="https://static.epg.best/gb/ITV1.uk.png" group-title="United Kingdom",ITV MERIDIAN WEST SD (RAW
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/387509
+#EXTINF:-1 tvg-id="itv1anglia.uk" tvg-name="ITV SD" tvg-logo="https://static.epg.best/gb/ITV1.uk.png" group-title="United Kingdom",ITV SD
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/387576
+#EXTINF:-1 tvg-id="itv1anglia.uk" tvg-name="ITV SD :TVP" tvg-logo="https://static.epg.best/gb/ITV1.uk.png" group-title="United Kingdom",ITV SD :TVP
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/387510
+#EXTINF:-1 tvg-id="itvwales.uk" tvg-name="ITV WALES FHD NEW (RAW)" tvg-logo="https://static.epg.best/gb/ITV1.uk.png" group-title="United Kingdom",ITV WALES FHD NEW (RAW)
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/387511
+#EXTINF:-1 tvg-id="itvborderscotland.uk" tvg-name="ITV1 Border Scotland FHD" tvg-logo="https://static.epg.best/gb/ITV1.uk.png" group-title="United Kingdom",ITV1 Border Scotland FHD
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/387512
+#EXTINF:-1 tvg-id="itvlondon.uk" tvg-name="ITV1 London FHD" tvg-logo="https://static.epg.best/gb/ITV1.uk.png" group-title="United Kingdom",ITV1 London FHD
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/387513
+#EXTINF:-1 tvg-id="itvmeridian.uk" tvg-name="ITV1 Meridian East FHD" tvg-logo="https://static.epg.best/gb/ITV1.uk.png" group-title="United Kingdom",ITV1 Meridian East FHD
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/387514
+#EXTINF:-1 tvg-id="itv4.uk" tvg-name="ITV4 SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d3/ITV4_logo_2013.svg/revision/latest/scale-to-width-down/300?cb=20210807190247" group-title="United Kingdom",ITV4 SD
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/387605
+#EXTINF:-1 tvg-id="itvbe.uk" tvg-name="ITVBe SD" tvg-logo="https://static.epg.best/gb/ITVBe.uk.png" group-title="United Kingdom",ITVBe SD
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/387638
+#EXTINF:-1 tvg-id="" tvg-name="LFCTV" tvg-logo="https://static.skyassets.com/contentstack/assets/blt292fe19f56d1a1a8/blt914435f46e5f317f/60f97c0ced7a525fcd55cb19/MicrosoftTeams-image_(13).png" group-title="United Kingdom",LFCTV
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/424612
+#EXTINF:-1 tvg-id="londonlive.uk" tvg-name="LONDON LIVE" tvg-logo="https://static.epg.best/gb/LondonLive.uk.png" group-title="United Kingdom",LONDON LIVE
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/387639
+#EXTINF:-1 tvg-id="more4.uk" tvg-name="MORE 4 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/90/More4_2012.svg/revision/latest/scale-to-width-down/200?cb=20190815145806" group-title="United Kingdom",MORE 4 HD
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/387600
+#EXTINF:-1 tvg-id="more4.uk" tvg-name="MORE4 FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/90/More4_2012.svg/revision/latest/scale-to-width-down/200?cb=20190815145806" group-title="United Kingdom",MORE4 FHD
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/387599
+#EXTINF:-1 tvg-id="movies24.uk" tvg-name="Movies 24" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/Movies_24.svg/revision/latest/scale-to-width-down/250?cb=20170109133858" group-title="United Kingdom",Movies 24
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/387515
+#EXTINF:-1 tvg-id="movies24plus.uk" tvg-name="Movies 24 +1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/79/Movies_24_Plus_1.png/revision/latest/scale-to-width-down/185?cb=20200608122603" group-title="United Kingdom",Movies 24 +1
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/387516
+#EXTINF:-1 tvg-id="" tvg-name="MUTV" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61rrCc7UQAL.png" group-title="United Kingdom",MUTV
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/424611
+#EXTINF:-1 tvg-id="natgeowild.uk" tvg-name="NAT GEO FHD" tvg-logo="https://m.media-amazon.com/images/S/gladiator-image-upload-prod/a/A2EUQ1WTGCTBG2/8fb0422250d1fd733cb299a3863150e7._AC_SX130_SY60_QL70_.png" group-title="United Kingdom",NAT GEO FHD
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/387517
+#EXTINF:-1 tvg-id="natgeowild.uk" tvg-name="NAT GEO HD" tvg-logo="https://m.media-amazon.com/images/S/gladiator-image-upload-prod/a/A2EUQ1WTGCTBG2/8fb0422250d1fd733cb299a3863150e7._AC_SX130_SY60_QL70_.png" group-title="United Kingdom",NAT GEO HD
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/387518
+#EXTINF:-1 tvg-id="natgeowild.uk" tvg-name="NAT GEO WILD FHD" tvg-logo="https://static.epg.best/in/NatGeoWild.in.png" group-title="United Kingdom",NAT GEO WILD FHD
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/387519
+#EXTINF:-1 tvg-id="natgeowild.uk" tvg-name="NAT GEO WILD HD" tvg-logo="https://static.epg.best/in/NatGeoWild.in.png" group-title="United Kingdom",NAT GEO WILD HD
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/387520
+#EXTINF:-1 tvg-id="nickelodeon.uk" tvg-name="NICK HD" tvg-logo="https://static.epg.best/gb/Nickelodeon.uk.png" group-title="United Kingdom",NICK HD
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/387521
+#EXTINF:-1 tvg-id="nickjunior.uk" tvg-name="NICK JR SD" tvg-logo="https://static.epg.best/gb/NickJunior.uk.png" group-title="United Kingdom",NICK JR SD
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/387522
+#EXTINF:-1 tvg-id="nickjunior.uk" tvg-name="NICK JR.TOO" tvg-logo="https://static.epg.best/gb/NickJrToo.uk.png" group-title="United Kingdom",NICK JR.TOO
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/387523
+#EXTINF:-1 tvg-id="nicktoons.uk" tvg-name="NICKTOONS" tvg-logo="https://static.epg.best/gb/Nicktoons.uk.png" group-title="United Kingdom",NICKTOONS
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/387524
+#EXTINF:-1 tvg-id="paramount.uk" tvg-name="PARAMOUNT FHD" tvg-logo="https://static.epg.best/gb/ParamountChannel.uk.png" group-title="United Kingdom",PARAMOUNT FHD
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/387614
+#EXTINF:-1 tvg-id="pbsamerica.uk" tvg-name="PBS AMERICA" tvg-logo="https://static.epg.best/gb/PBSAmerica.uk.png" group-title="United Kingdom",PBS AMERICA
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/387640
+#EXTINF:-1 tvg-id="picktv.uk" tvg-name="PICK" tvg-logo="https://static.epg.best/gb/PickTV.uk.png" group-title="United Kingdom",PICK
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/387641
+#EXTINF:-1 tvg-id="pop.uk" tvg-name="POP" tvg-logo="https://static.epg.best/gb/Pop.uk.png" group-title="United Kingdom",POP
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/387525
+#EXTINF:-1 tvg-id="" tvg-name="POP +1" tvg-logo="https://static.epg.best/gb/Pop.uk.png" group-title="United Kingdom",POP +1
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/387526
+#EXTINF:-1 tvg-id="popmax.uk" tvg-name="POP MAX" tvg-logo="https://static.epg.best/gb/POPMax.uk.png" group-title="United Kingdom",POP MAX
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/387527
+#EXTINF:-1 tvg-id="" tvg-name="POP MAX +1" tvg-logo="https://static.epg.best/gb/POPMax.uk.png" group-title="United Kingdom",POP MAX +1
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/387528
+#EXTINF:-1 tvg-id="quest.uk" tvg-name="QUEST FHD" tvg-logo="https://static.epg.best/gb/Quest.uk.png" group-title="United Kingdom",QUEST FHD
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/387615
+#EXTINF:-1 tvg-id="questred.uk" tvg-name="QUEST RED" tvg-logo="https://static.epg.best/gb/Quest.uk.png" group-title="United Kingdom",QUEST RED
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/387616
+#EXTINF:-1 tvg-id="quest.uk" tvg-name="QUEST SD" tvg-logo="https://static.epg.best/gb/Quest.uk.png" group-title="United Kingdom",QUEST SD
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/387617
+#EXTINF:-1 tvg-id="really.uk" tvg-name="REALLY" tvg-logo="https://static.epg.best/gb/Really.uk.png" group-title="United Kingdom",REALLY
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/387621
+#EXTINF:-1 tvg-id="syfy.uk" tvg-name="S4C FHD" tvg-logo="https://static.epg.best/gb/S4C.uk.png" group-title="United Kingdom",S4C FHD
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/387643
+#EXTINF:-1 tvg-id="s4c.uk" tvg-name="S4C SD" tvg-logo="https://static.epg.best/gb/S4C.uk.png" group-title="United Kingdom",S4C SD
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/387642
+#EXTINF:-1 tvg-id="skyarts.uk" tvg-name="SKY ARTS FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2f/Sky_Arts_2017.png/revision/latest/scale-to-width-down/300?cb=20191004065431" group-title="United Kingdom",SKY ARTS FHD
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/387622
+#EXTINF:-1 tvg-id="skyarts.uk" tvg-name="SKY ARTS HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2f/Sky_Arts_2017.png/revision/latest/scale-to-width-down/300?cb=20191004065431" group-title="United Kingdom",SKY ARTS HD
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/387623
+#EXTINF:-1 tvg-id="skyatlantic.uk" tvg-name="SKY ATLANTIC FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/db/Sky_Atlantic_HD_2020.svg/revision/latest/scale-to-width-down/180?cb=20210116003930" group-title="United Kingdom",SKY ATLANTIC FHD
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/387583
+#EXTINF:-1 tvg-id="skyatlantic.uk" tvg-name="SKY ATLANTIC HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/db/Sky_Atlantic_HD_2020.svg/revision/latest/scale-to-width-down/180?cb=20210116003930" group-title="United Kingdom",SKY ATLANTIC HD
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/387584
+#EXTINF:-1 tvg-id="skyaction.uk" tvg-name="SKY CINEMA ACTION FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a9/Sky_Cinema_Action_2020.svg/revision/latest/scale-to-width-down/300?cb=20210118213113" group-title="United Kingdom",SKY CINEMA ACTION FHD
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/387529
+#EXTINF:-1 tvg-id="skyaction.uk" tvg-name="SKY CINEMA ACTION HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a9/Sky_Cinema_Action_2020.svg/revision/latest/scale-to-width-down/300?cb=20210118213113" group-title="United Kingdom",SKY CINEMA ACTION HD
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/387530
+#EXTINF:-1 tvg-id="skyanimation.uk" tvg-name="SKY CINEMA ANIMATION FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/62/Sky_cinema_animation_primary_rgb.png/revision/latest/scale-to-width-down/350?cb=20200723102819" group-title="United Kingdom",SKY CINEMA ANIMATION FHD
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/387531
+#EXTINF:-1 tvg-id="skyanimation.uk" tvg-name="SKY CINEMA ANIMATION HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/62/Sky_cinema_animation_primary_rgb.png/revision/latest/scale-to-width-down/350?cb=20200723102819" group-title="United Kingdom",SKY CINEMA ANIMATION HD
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/387532
+#EXTINF:-1 tvg-id="skycinemacomedy.uk" tvg-name="SKY CINEMA COMEDY FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/Sky_Cinema_Comedy_2020.svg/revision/latest/scale-to-width-down/300?cb=20210118213600" group-title="United Kingdom",SKY CINEMA COMEDY FHD
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/387533
+#EXTINF:-1 tvg-id="skycinemacomedy.uk" tvg-name="SKY CINEMA COMEDY HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/Sky_Cinema_Comedy_2020.svg/revision/latest/scale-to-width-down/300?cb=20210118213600" group-title="United Kingdom",SKY CINEMA COMEDY HD
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/387534
+#EXTINF:-1 tvg-id="skydrama.uk" tvg-name="SKY CINEMA DRAMA FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/Sky_Cinema_Drama_2020.svg/revision/latest/scale-to-width-down/300?cb=20210118213533" group-title="United Kingdom",SKY CINEMA DRAMA FHD
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/387535
+#EXTINF:-1 tvg-id="skydrama.uk" tvg-name="SKY CINEMA DRAMA HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/Sky_Cinema_Drama_2020.svg/revision/latest/scale-to-width-down/300?cb=20210118213533" group-title="United Kingdom",SKY CINEMA DRAMA HD
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/387536
+#EXTINF:-1 tvg-id="skyfamily.uk" tvg-name="SKY CINEMA FAMILY FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/Sky_Cinema_Family_2020.svg/revision/latest/scale-to-width-down/300?cb=20210118213029" group-title="United Kingdom",SKY CINEMA FAMILY FHD
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/387537
+#EXTINF:-1 tvg-id="skyfamily.uk" tvg-name="SKY CINEMA FAMILY HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/Sky_Cinema_Family_2020.svg/revision/latest/scale-to-width-down/300?cb=20210118213029" group-title="United Kingdom",SKY CINEMA FAMILY HD
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/387538
+#EXTINF:-1 tvg-id="skygreats.uk" tvg-name="SKY CINEMA GREATS FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/47/Sky_Cinema_Greats_2020.svg/revision/latest/scale-to-width-down/300?cb=20200702164648" group-title="United Kingdom",SKY CINEMA GREATS FHD
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/387539
+#EXTINF:-1 tvg-id="" tvg-name="SKY CINEMA GREATS HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/47/Sky_Cinema_Greats_2020.svg/revision/latest/scale-to-width-down/300?cb=20200702164648" group-title="United Kingdom",SKY CINEMA GREATS HD
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/387540
+#EXTINF:-1 tvg-id="skyhits.uk" tvg-name="SKY CINEMA HITS FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/27/Sky_Cinema_Hits_2020.svg/revision/latest/scale-to-width-down/300?cb=20200702151124" group-title="United Kingdom",SKY CINEMA HITS FHD
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/387541
+#EXTINF:-1 tvg-id="skyhits.uk" tvg-name="SKY CINEMA HITS HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/27/Sky_Cinema_Hits_2020.svg/revision/latest/scale-to-width-down/300?cb=20200702151124" group-title="United Kingdom",SKY CINEMA HITS HD
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/387542
+#EXTINF:-1 tvg-id="skypremiere.uk" tvg-name="SKY CINEMA PREMIER FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/da/Sky_Cinema_Premiere_2020.svg/revision/latest/scale-to-width-down/300?cb=20200702150346" group-title="United Kingdom",SKY CINEMA PREMIER FHD
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/387543
+#EXTINF:-1 tvg-id="skypremiere.uk" tvg-name="SKY CINEMA PREMIER HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/da/Sky_Cinema_Premiere_2020.svg/revision/latest/scale-to-width-down/300?cb=20200702150346" group-title="United Kingdom",SKY CINEMA PREMIER HD
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/387544
+#EXTINF:-1 tvg-id="skyscifihorror.uk" tvg-name="SKY CINEMA SCI-FI FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/aa/Sky_Cinema_Sci-Fi_Horror.svg/revision/latest/scale-to-width-down/300?cb=20200702154935" group-title="United Kingdom",SKY CINEMA SCI-FI FHD
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/387545
+#EXTINF:-1 tvg-id="skyscifihorror.uk" tvg-name="SKY CINEMA SciFi HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/aa/Sky_Cinema_Sci-Fi_Horror.svg/revision/latest/scale-to-width-down/300?cb=20200702154935" group-title="United Kingdom",SKY CINEMA SciFi HD
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/387546
+#EXTINF:-1 tvg-id="skyselect.uk" tvg-name="SKY CINEMA SELECT FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/48/Sky_Cinema_Select_2020.svg/revision/latest/scale-to-width-down/300?cb=20200702170349" group-title="United Kingdom",SKY CINEMA SELECT FHD
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/387547
+#EXTINF:-1 tvg-id="skyselect.uk" tvg-name="SKY CINEMA SELECT HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/48/Sky_Cinema_Select_2020.svg/revision/latest/scale-to-width-down/300?cb=20200702170349" group-title="United Kingdom",SKY CINEMA SELECT HD
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/387548
+#EXTINF:-1 tvg-id="skythriller.uk" tvg-name="SKY CINEMA THRILLER FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/29/Sky_Cinema_Thriller_2020.svg/revision/latest/scale-to-width-down/300?cb=20201029120808" group-title="United Kingdom",SKY CINEMA THRILLER FHD
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/387549
+#EXTINF:-1 tvg-id="skythriller.uk" tvg-name="SKY CINEMA THRILLER HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/29/Sky_Cinema_Thriller_2020.svg/revision/latest/scale-to-width-down/300?cb=20201029120808" group-title="United Kingdom",SKY CINEMA THRILLER HD
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/387550
+#EXTINF:-1 tvg-id="skycomedy.uk" tvg-name="SKY COMEDY FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/73/Sky_Comedy_logo.svg/revision/latest/scale-to-width-down/300?cb=20200825185441" group-title="United Kingdom",SKY COMEDY FHD
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/387587
+#EXTINF:-1 tvg-id="skycomedyhd.uk" tvg-name="SKY COMEDY HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/73/Sky_Comedy_logo.svg/revision/latest/scale-to-width-down/300?cb=20200825185441" group-title="United Kingdom",SKY COMEDY HD
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/387588
+#EXTINF:-1 tvg-id="skycrime.uk" tvg-name="SKY CRIME FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/71/Sky_Crime_2019.svg/revision/latest/scale-to-width-down/300?cb=20190821163205" group-title="United Kingdom",SKY CRIME FHD
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/387589
+#EXTINF:-1 tvg-id="skycrime.uk" tvg-name="SKY CRIME HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/71/Sky_Crime_2019.svg/revision/latest/scale-to-width-down/300?cb=20190821163205" group-title="United Kingdom",SKY CRIME HD
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/387590
+#EXTINF:-1 tvg-id="" tvg-name="SKY DOCUMENTARIES FHD" tvg-logo="https://static.skyassets.com/contentstack/assets/bltdc2476c7b6b194dd/blt297d926a41cbad90/5edfe08b7968ce38f26fe407/Sky_Documentaries_PRIMARY_RGB.png" group-title="United Kingdom",SKY DOCUMENTARIES FHD
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/387551
+#EXTINF:-1 tvg-id="skydocumentaries.uk" tvg-name="SKY DOCUMENTARIES HD" tvg-logo="https://static.skyassets.com/contentstack/assets/bltdc2476c7b6b194dd/blt297d926a41cbad90/5edfe08b7968ce38f26fe407/Sky_Documentaries_PRIMARY_RGB.png" group-title="United Kingdom",SKY DOCUMENTARIES HD
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/387552
+#EXTINF:-1 tvg-id="skyhistory.uk" tvg-name="SKY HISTORY 2 HD" tvg-logo="https://static.skyassets.com/contentstack/assets/bltdc2476c7b6b194dd/blt59a94d9554ff5890/5edfedb7e92db173fb37dfd5/Sky_History2_PRIMARY_RGB.png" group-title="United Kingdom",SKY HISTORY 2 HD
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/387553
+#EXTINF:-1 tvg-id="skyhistory.uk" tvg-name="SKY HISTORY FHD" tvg-logo="https://static.skyassets.com/contentstack/assets/bltdc2476c7b6b194dd/bltd5cb967f24675229/5edfe08b98e62f38ec84dad3/Sky_History_PRIMARY_RGB.png" group-title="United Kingdom",SKY HISTORY FHD
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/387554
+#EXTINF:-1 tvg-id="skyhistory.uk" tvg-name="SKY HISTORY/H2 FHD" tvg-logo="https://static.skyassets.com/contentstack/assets/bltdc2476c7b6b194dd/blt59a94d9554ff5890/5edfedb7e92db173fb37dfd5/Sky_History2_PRIMARY_RGB.png" group-title="United Kingdom",SKY HISTORY/H2 FHD
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/387555
+#EXTINF:-1 tvg-id="skymax.uk" tvg-name="SKY MAX FHD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb4061.png" group-title="United Kingdom",SKY MAX FHD
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/387591
+#EXTINF:-1 tvg-id="skymax.uk" tvg-name="SKY MAX HD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb4061.png" group-title="United Kingdom",SKY MAX HD
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/387592
+#EXTINF:-1 tvg-id="skynature.uk" tvg-name="SKY NATURE FHD" tvg-logo="https://static.skyassets.com/contentstack/assets/bltdc2476c7b6b194dd/blta20d8a6ff8af7f17/5edfe08b444d25730a19f22a/Sky_Nature_PRIMARY_RGB.png" group-title="United Kingdom",SKY NATURE FHD
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/387556
+#EXTINF:-1 tvg-id="skynature.uk" tvg-name="SKY NATURE HD" tvg-logo="https://static.skyassets.com/contentstack/assets/bltdc2476c7b6b194dd/blta20d8a6ff8af7f17/5edfe08b444d25730a19f22a/Sky_Nature_PRIMARY_RGB.png" group-title="United Kingdom",SKY NATURE HD
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/387557
+#EXTINF:-1 tvg-id="skynews.uk" tvg-name="SKY NEWS FHD" tvg-logo="https://static.skyassets.com/contentstack/assets/bltdc2476c7b6b194dd/bltfd2a4436d4c73d84/5edfe8fe0d08b7333aa7a1b5/SkyNews.png" group-title="United Kingdom",SKY NEWS FHD
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/387558
+#EXTINF:-1 tvg-id="skynews.uk" tvg-name="SKY NEWS HD" tvg-logo="https://static.skyassets.com/contentstack/assets/bltdc2476c7b6b194dd/bltfd2a4436d4c73d84/5edfe8fe0d08b7333aa7a1b5/SkyNews.png" group-title="United Kingdom",SKY NEWS HD
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/387559
+#EXTINF:-1 tvg-id="skynews.uk" tvg-name="SKY NEWS SD" tvg-logo="https://static.skyassets.com/contentstack/assets/bltdc2476c7b6b194dd/bltfd2a4436d4c73d84/5edfe8fe0d08b7333aa7a1b5/SkyNews.png" group-title="United Kingdom",SKY NEWS SD
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/387560
+#EXTINF:-1 tvg-id="skyshowcase.uk" tvg-name="SKY SHOWCASE FHD" tvg-logo="https://media.info/i/lf/300/1630491051/1084.png" group-title="United Kingdom",SKY SHOWCASE FHD
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/387581
+#EXTINF:-1 tvg-id="skyshowcase.uk" tvg-name="SKY SHOWCASE HD" tvg-logo="https://media.info/i/lf/300/1630491051/1084.png" group-title="United Kingdom",SKY SHOWCASE HD
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/387582
+#EXTINF:-1 tvg-id="skywitness.uk" tvg-name="SKY WITNESS FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/Sky_Witness_HD.svg/revision/latest/scale-to-width-down/183?cb=20200125173522" group-title="United Kingdom",SKY WITNESS FHD
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/387585
+#EXTINF:-1 tvg-id="skywitness.uk" tvg-name="SKY WITNESS HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/Sky_Witness_HD.svg/revision/latest/scale-to-width-down/183?cb=20200125173522" group-title="United Kingdom",SKY WITNESS HD
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/387586
+#EXTINF:-1 tvg-id="smithsonian.uk" tvg-name="SMITHSONIAN FHD" tvg-logo="https://baltimore.cbslocal.com/wp-content/uploads/sites/15910056/2011/01/718055.jpg?w=640" group-title="United Kingdom",SMITHSONIAN FHD
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/387561
+#EXTINF:-1 tvg-id="" tvg-name="SONY ACTION +1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Sony_Movies_Action_Plus_1.png/revision/latest/scale-to-width-down/150?cb=20200608132547" group-title="United Kingdom",SONY ACTION +1
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/387562
+#EXTINF:-1 tvg-id="" tvg-name="SONY CLASSIC +1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Sony_Movies_Classic_Plus_1.png/revision/latest/scale-to-width-down/150?cb=20200608132705" group-title="United Kingdom",SONY CLASSIC +1
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/387563
+#EXTINF:-1 tvg-id="" tvg-name="SONY MOVIES +1" tvg-logo="https://couponqueen.co.uk/wp-content/uploads/2021/01/sony111.png" group-title="United Kingdom",SONY MOVIES +1
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/387564
+#EXTINF:-1 tvg-id="stv.uk" tvg-name="STV FHD" tvg-logo="https://static.epg.best/gb/STV.uk.png" group-title="United Kingdom",STV FHD
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/387565
+#EXTINF:-1 tvg-id="syfy.uk" tvg-name="SYFY FHD" tvg-logo="https://static.epg.best/gb/Syfy.uk.png" group-title="United Kingdom",SYFY FHD
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/387644
+#EXTINF:-1 tvg-id="syfy.uk" tvg-name="SYFY HD" tvg-logo="https://static.epg.best/gb/Syfy.uk.png" group-title="United Kingdom",SYFY HD
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/387645
+#EXTINF:-1 tvg-id="talkingpictures.uk" tvg-name="Talking Pictures" tvg-logo="https://talkingpicturestv.co.uk/wp-content/uploads/2015/03/logo-550-300x273.png" group-title="United Kingdom",Talking Pictures
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/387566
+#EXTINF:-1 tvg-id="tcm.uk" tvg-name="TCM SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/TurnerClassicMoviesAsia.jpg" group-title="United Kingdom",TCM SD
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/387567
+#EXTINF:-1 tvg-id="tinypop.uk" tvg-name="TINY POP" tvg-logo="https://static.epg.best/gb/Tinypop.uk.png" group-title="United Kingdom",TINY POP
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/387568
+#EXTINF:-1 tvg-id="" tvg-name="TINY POP +1" tvg-logo="https://static.epg.best/gb/Tinypop.uk.png" group-title="United Kingdom",TINY POP +1
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/387569
+#EXTINF:-1 tvg-id="tlc.uk" tvg-name="TLC FHD" tvg-logo="https://static.epg.best/th/TLC.th.png" group-title="United Kingdom",TLC FHD
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/387646
+#EXTINF:-1 tvg-id="tlc.uk" tvg-name="TLC SD" tvg-logo="https://static.epg.best/th/TLC.th.png" group-title="United Kingdom",TLC SD
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/387647
+#EXTINF:-1 tvg-id="travelxp.uk" tvg-name="TRAVEL xp" tvg-logo="https://static.epg.best/qa/TravelChannel.qa.png" group-title="United Kingdom",TRAVEL xp
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/387570
+#EXTINF:-1 tvg-id="trtworld.uk" tvg-name="TRT WORLD" tvg-logo="https://static.epg.best/tr/TRTWorld.tr.png" group-title="United Kingdom",TRT WORLD
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/387648
+#EXTINF:-1 tvg-id="w.uk" tvg-name="W FHD" tvg-logo="https://static.epg.best/gb/W.uk.png" group-title="United Kingdom",W FHD
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/387624
+#EXTINF:-1 tvg-id="w.uk" tvg-name="W! HD" tvg-logo="https://static.epg.best/gb/W.uk.png" group-title="United Kingdom",W! HD
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/387625
+#EXTINF:-1 tvg-id="yesterday.uk" tvg-name="YESTERDAY" tvg-logo="https://static.epg.best/gb/Yesterday.uk.png" group-title="United Kingdom",YESTERDAY
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/387628
